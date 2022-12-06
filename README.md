@@ -7,3 +7,5 @@
 Our analysis shows that stocks in the **green** are aweome! dont trade *FTX*  
 
 >Tom Brady sure is in trouble!
+
+> Hopefully this homework wont be too difficult
